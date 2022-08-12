@@ -138,4 +138,4 @@
      
 * ### 동작과정  
   
-  
+  ![image url](https://github.com/12OneTwo12/mini-project/blob/main/plan/ezgif.com-gif-maker.gif?raw=true)  
