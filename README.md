@@ -7,3 +7,5 @@
 * #### [ 출퇴근 기록 및 조회, 월급 계산기 ](https://github.com/12OneTwo12/webApplication-project-220831) [ 2022-08-31 ~ 2022-09-03 ]  
 
 * #### [ PlayData 도서 관리 웹 어플리케이션(side project) ](https://github.com/12OneTwo12/librarySystem) [ 2022-09-09 ~ 2022-09-12 ]  
+  
+* #### [ 반려동물 커뮤니티 ](https://github.com/12OneTwo12/2022-09-miniProject) [ 2022-09-18 ~ 2022-09-21 ]  
