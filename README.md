@@ -12,4 +12,6 @@
 
 * #### [ PlayData 도서 관리 웹 어플리케이션 ](https://github.com/12OneTwo12/book-managing-back) [ 2022-09.16 ~ 2022-10.07 ]  
 
-* #### [ 법원 경매 웹 어플리케이션 ](https://github.com/pd-finalpj/auctionTTang-BE) [ 2022-12-05 ~ 2022-12-29 ]  
+* #### [ 법원 경매 웹 어플리케이션(땅땅땅) ](https://github.com/pd-finalpj/auctionTTang-BE) [ 2022-12-05 ~ 2022-12-29 ]  
+
+* #### [ 반려동물 호텔, 유치원 플랫폼(펫앤비) ](https://github.com/EncorePetTeam/petandbe-BE) [ 2022-11-12 ~ 2022-12-31 ]  
